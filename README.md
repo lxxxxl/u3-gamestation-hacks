@@ -40,12 +40,12 @@ J4 - 2×4 pins(IO Port #1)
 | 2 | 4 | 6 | 8 |
 
 ## UART
-_____UART____
-|Pin 4 - GND|
-|Pin 3 - RXD|
-|Pin 2 - TXD|
-|Pin 1 - VCC|
-\___________|
+_____UART____  
+|Pin 4 - GND|  
+|Pin 3 - RXD|  
+|Pin 2 - TXD|  
+|Pin 1 - VCC|  
+\___________|  
 1.8V LVTTL
 
 
