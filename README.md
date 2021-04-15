@@ -1,4 +1,4 @@
-# ODROID U3 GameStatiob Hacks
+# ODROID U3 GameStation Hacks
 My hacks for ODROID [GameStation Linux distro](https://forum.odroid.com/viewtopic.php?f=11&t=2684)
 
 ## Button
